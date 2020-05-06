@@ -84,9 +84,9 @@ ul a:hover{
   text-decoration: none;
   color:grey;
 }
-.btn{
+#contact .btn{
 position:relative;
-top:50px;
+top:35px;
 }
 #contact .col-md-12{
   border-bottom: 2px solid grey;
