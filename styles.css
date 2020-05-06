@@ -1,0 +1,98 @@
+.carousel-item img{
+width:100%;
+height:700px;;
+}
+.container{
+  margin-top:70px;
+}
+.navbar{
+  background-color: rgba(0,0,0,0);
+}
+.carousel-caption{
+  color:black;
+}
+ .carousel-caption a{
+  color:black;
+}
+#cards{
+  margin-top:100px;
+}
+.hr{
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width:10%;
+  border:10px dotted black;
+  border-bottom: 0px;
+}
+.about{
+  text-align: center;
+  margin-top:150px;
+  position: relative;
+  background: white;
+}
+
+
+.about-image{
+  width: 250px;
+}
+.contact{
+background-color: #222831;
+  margin-top:100px;
+  color:snow;
+}
+.
+
+.col-1 img{
+  padding: 10px;
+  height:60px;
+  width:60%;
+}
+
+.color-salmon{
+  color:dodgerblue;
+}
+.color-blue{
+color: lawngreen;
+}
+a .fab{
+  padding:5px;
+  border: 1px solid slategrey;
+  color:white;
+}
+.col-md-4{
+  position: relative;
+  padding: 40px;
+}
+.col-md-4 input{
+  position: relative;
+  top:20px;
+  background-color: #323232;
+  border: none;
+  color: #fff;
+  padding: 10px;
+}
+.col-md-4 input::before{
+content: '';
+position: absolute;
+top:-3px;
+bottom:-3px;
+left:-3px;
+right:-3px;
+background-color: white;
+
+}
+.col-md-4 textarea{
+  position: relative;
+  top:35px;
+  background-color:#323232;
+  color:white;
+}
+ul a{
+  color:snow;
+  line-height: 2.5;
+}
+ul a:hover{
+  text-decoration: none;
+  color:grey;
+}
