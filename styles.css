@@ -16,6 +16,7 @@ height:700px;;
 }
 #cards{
   margin-top:100px;
+  width:100%;
 }
 .hr{
   margin-top: 100px;
@@ -87,6 +88,7 @@ background-color: white;
   top:35px;
   background-color:#323232;
   color:white;
+  width:100%;
 }
 ul a{
   color:snow;
@@ -95,4 +97,7 @@ ul a{
 ul a:hover{
   text-decoration: none;
   color:grey;
+}
+.contact div{
+  border: 1px white solid;
 }
