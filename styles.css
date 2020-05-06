@@ -44,11 +44,6 @@ background-color: #222831;
 }
 .
 
-.col-1 img{
-  padding: 10px;
-  height:60px;
-  width:60%;
-}
 
 .color-salmon{
   color:dodgerblue;
@@ -62,10 +57,10 @@ a .fab{
   color:white;
 }
 .col-md-4{
-  position: relative;
-  padding: 40px;
+  /* position: relative;
+  padding: 40px; */
 }
-.col-md-4 input{
+.col-md-12 input{
   position: relative;
   top:20px;
   background-color: #323232;
@@ -74,7 +69,7 @@ a .fab{
   padding: 10px;
 }
 
-.col-md-4 textarea{
+.col-md-12 textarea{
   position: relative;
   top:35px;
   background-color:#323232;
@@ -92,4 +87,7 @@ ul a:hover{
 .btn{
 position:relative;
 top:50px;
+}
+#contact .col-md-12{
+  border-bottom: 2px solid grey;
 }
